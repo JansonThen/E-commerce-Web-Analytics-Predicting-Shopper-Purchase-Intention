@@ -43,3 +43,6 @@ The application can be applied to:
 - Improve website optimization with knowledge of which features correlate with purchases
 - Assign customer service capacity to high-value customers
 - Apply dynamic pricing by probability of buy
+
+# Overall Output of the reseach and analysis
+Feel free to go through the "Social and web analytics project" file provided above for the completely analysis output of the reseach data :)
