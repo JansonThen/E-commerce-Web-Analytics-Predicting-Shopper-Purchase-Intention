@@ -1,12 +1,12 @@
 # E-commerce-Web-Analytics-Predicting-Shopper-Purchase-Intention
 
-Introduction
+# Introduction
 This project is aimed at answering the core question of current e-commerce: forecasting if online consumers will finalize a purchase within their browsing sessions. With a rapidly growing virtual market, customer purchasing behavior intelligence and forecasting have gained significance to enhance marketing effectiveness, minimize cart abandonment, and maximize conversions. The project employs machine learning algorithms to examine behavioral trends using web session information with the goal of delivering actionable intelligence for real-time decision-making at e-commerce companies.
 
-Description
+# Description
 The paper is an end-to-end machine learning study examining online buying behavior with the help of the UCI Online Shoppers Purchasing Intention Dataset containing 12,330 user sessions with diverse behavioral and temporal features. The paper employs and compares six different classification models: Logistic Regression, Decision Tree, Random Forest, Support Vector Classifier (SVC), XGBoost, and LightGBM. The data set has the challenge of severe class imbalance because purchases occur in just 15.5% of sessions, and the project remedies this through the application of Synthetic Minority Over-sampling Technique (SMOTE). The study utilizes 18 distinct features such as page visit lengths, bounce rates, exit rates, proximity to special days, visitor types, and other session-based metrics to develop predictive models capable of recognizing likely buyers.
 
-Purposes
+# Purposes
 The project fulfills several strategic objectives:
 
 1) Predictive Analytics: To be able to properly predict which browsing sessions will lead to purchases and allow active customer engagement strategy
@@ -15,7 +15,7 @@ The project fulfills several strategic objectives:
 4) Business Intelligence: To generate data-driven insights that enable business to optimize marketing expense, enhance customer targeting, and increase overall conversion rates
 5) Academic Contribution: For contributing to the body of knowledge of e-commerce analytics by offering systematic comparisons among various modeling strategies and mitigating imbalanced dataset problems
 
-Functionality
+# Functionality
 Functionality of the project includes a number of key components:
 
 Data Processing Pipeline
