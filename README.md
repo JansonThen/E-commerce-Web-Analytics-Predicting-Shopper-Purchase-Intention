@@ -44,5 +44,5 @@ The application can be applied to:
 - Assign customer service capacity to high-value customers
 - Apply dynamic pricing by probability of buy
 
-# Overall Output of the reseach and analysis
-Feel free to go through the "Social and web analytics project" file provided above for the completely analysis output of the reseach data :)
+# Overall Output of the research and analysis
+Feel free to go through the "Social and web analytics project" file provided above for the completely analysis output of the research data :)
